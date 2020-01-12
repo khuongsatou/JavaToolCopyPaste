@@ -1,4 +1,6 @@
 <h1>Copy và pass ra 5 dòng từ đó copy để học 1000 từ English</h1>
+<p style="color:'red' "> Để Làm gì? để cho máy nó đọc thôi. Xong copy text dán vô đây[ https://notevibes.com/ ]tạo thành file MP3 tải về máy để nghe  </p>
+
 Chỉ hỗ trợ cho GUI
 <h2> 1. Download ToolPasteEnglish.jar </h2>
 <h3> 2. Open ToolPasteEnglish.jar </h3>
