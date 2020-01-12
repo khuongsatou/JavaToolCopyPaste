@@ -22,15 +22,15 @@ public class ReadFileScanner {
         File file = new File("D:\\OUTPUT.txt");
         //Không cần quan tâm đến việc Close Scanner
         try(Scanner sc = new Scanner(file)){
-            String str = null;
+            String str = "";
             //check exist row: true/false
             while(sc.hasNext()){
-                str=sc.nextLine();
-                System.out.println("Noi Dung dọc tu File: "+str);
+                str = sc.nextLine();
+                System.out.println(""+str);
             }
-            
         }catch(Exception e){
-            
+            e.printStackTrace();
+            System.out.println("Error");
         }
         
     }
